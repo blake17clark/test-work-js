@@ -1,0 +1,55 @@
+
+    <imdb>
+        <movies>
+            <movie>
+                <title>Lord of the Rings: The Fellowship of the Ring</title>
+                <actor>Elija Woods<actor>
+                <director>Peter Jackson</director>
+                <characters>
+                    <character>1</character>
+                </characters>    
+            </movie>
+            <movie>
+                <title>Casino Royal</title>
+                <actor>Daniel Craig</actor>
+                <director>Martin Campbell</director>
+                <characters>
+                    <character>2</character>
+                </characters>    
+            </movie>    
+            <movie>
+                <title>Skyfall</title>
+                <actor>Daniel Craig</actor>
+                <director>Sam Mendes</director>
+                <characters>
+                    <character>3</character>
+                </characters>    
+            </movie>  
+               <movie>
+                <title>A Clockwork Orange</title>
+                <actor>Malcolm McDowell</actor>
+                <director>Stanley Kubrick</director>
+                <characters>
+                    <character>3</character>
+                </characters>    
+            </movie> 
+         </movies>   
+        <characters>
+            <character id='1'>
+                <name>Frodo</name>
+                <age>50</age>
+            </character>
+            <character id='2'>
+                <name>James Bond</name>
+                <age>47</age>
+            </character>
+            <character id='3'>
+                <name>Money Penny</name>
+                <age>40</age>
+            </character>
+            <character id='4'>
+                <name>Malcolm McDowell</name>
+                <age>24</age>
+            </character>
+        </characters>
+    </imdb>
